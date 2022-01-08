@@ -1,2 +1,2 @@
-# OO
-Desenvolvimento de estudos oo com Python
+# POO
+Desenvolvimento e exercícios de estudos poo com Python
