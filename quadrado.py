@@ -11,8 +11,6 @@ class Quadrado():
     def calcularArea(self, ):
         return self.lado * self.lado
 
-
-
 q = Quadrado(5)
 print(q.getLado())
 q.setLado(10)
