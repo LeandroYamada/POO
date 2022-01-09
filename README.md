@@ -1,2 +1,2 @@
 # POO
-Desenvolvimento e exercícios de estudos poo com Python
+Resolução de exercícios de estudos em poo com Python do site [PythonBrasil] (https://wiki.python.org.br/ExerciciosClasses)
