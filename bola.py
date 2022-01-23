@@ -1,17 +1,17 @@
-class Bola():
+class Bola:
     def __init__(self, cor, circunferencia, material):
         self.cor = cor
         self.circunferencia = circunferencia
         self.material = material
 
-    def trocaCor(self, cor):
+    def troca_cor(self, cor):
         self.cor = cor
 
-    def mostraCor(self):
+    def mostra_cor(self):
         return self.cor
 
-b = Bola("azul", 10, 'couro')
-print(b.mostraCor())
-b.trocaCor('vermelha')
-print(b.mostraCor())
 
+b = Bola("azul", 10, 'couro')
+print(b.mostra_cor())
+b.troca_cor('vermelha')
+print(b.mostra_cor())
