@@ -34,7 +34,7 @@ mac2.ver_bucho()
 mac2.comer('Abacate')
 mac2.ver_bucho()
 
-mac2.comer('Kiwi')
+mac2.comer('Abacaxi')
 mac2.ver_bucho()
 
 mac2.comer(mac1)
