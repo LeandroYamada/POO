@@ -13,5 +13,5 @@ class Bola:
 
 b = Bola("azul", 10, 'couro')
 print(b.mostra_cor())
-b.troca_cor('vermelha')
+b.troca_cor('branco')
 print(b.mostra_cor())
