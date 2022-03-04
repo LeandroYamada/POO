@@ -14,7 +14,7 @@ class Funcionario:
 
 
 
-func = Funcionario('Leandro', 5000)
+func = Funcionario('Vicktoria', 5000)
 print('Nome:', func.get_nome(), ', Salario', func.get_salario())
 func.aumentar_salario(10)
 print('Nome:', func.get_nome(), ', Salario', func.get_salario())
